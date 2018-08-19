@@ -5,7 +5,7 @@
 // 4)anytime you want to remove extra spaces
 // 5)you can split a string into another array, or join elements into a string
 // 6)it validates data
-// 7)a backslash
+// 7)a frontslash on each end
 // 8)you can test for whichever elements you're looking for
 // var str = "The best things in life are free";
 // var patt = new RegExp("e");
